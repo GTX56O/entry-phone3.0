@@ -16,22 +16,40 @@ The entry phone also works with opening the gate on Arduino, we can open the gat
 For the entry phone and gate control project we will need:
 
 Arduino
+
 raspberry pi 2/3/4
+
 433MHz remote controls
+
 433mhz receiver
+
 12 or 24v gate actuators
-infrared sensors for barma
+
+infrared sensors 
+
 warning light
+
 camera for raspberry pi
+
 4x3 keyboard
+
 NFC card reader
+
 nfc cards
+
 power supply (5v for raspberry and arduino, 12v or 24v for our actuators)
+
 electromages to our small gate
+
 the housing of our intercom - raspberry pi (for example, printed on a 3D printer
+
 Housing for the gate mechanism
+
 4 5v relays
+
 2 5v direction changers (double relays for one coil)
+
 cables
+
 
 
