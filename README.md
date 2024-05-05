@@ -1,3 +1,5 @@
+# entry-phone3.0
+
 To start a working entry phone and gate control, run the app.py code on the raspberry pi, run the index.html page on the raspberry pi,
 run arduino.ino file on arduino. Download all required libraries on raspberry pi
 
@@ -26,10 +28,10 @@ NFC card reader
 nfc cards
 power supply (5v for raspberry and arduino, 12v or 24v for our actuators)
 electromages to our small gate
-the housing of our intercom - raspberry pi (for example, printed on a 3D printer)
+the housing of our intercom - raspberry pi (for example, printed on a 3D printer
 Housing for the gate mechanism
 4 5v relays
 2 5v direction changers (double relays for one coil)
 cables
 
-# entry-phone3.0
+
