@@ -1,0 +1,11 @@
+{
+    "BASIC_AUTH_USERNAME": "login",
+    "BASIC_AUTH_PASSWORD": "password",
+    "OPEN_GATE_PIN": 5,
+    "CLOSE_GATE_PIN": 4,
+    "RING_PIN": 27,
+    "GATE_RELAY_PIN": 14,
+    "CORRECT_PIN": "pin to gate",
+    "HOST_IP": "your_host_ip"
+  }
+  
